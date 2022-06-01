@@ -5,7 +5,7 @@ Demonstração de como usar o Swagger 2 para gerar a documentação da API REST 
 ## Executar 
 
 ```
-$ git clone https://github.com/papicella/httpie-springboot.git
+$ git clone https://github.com/isaccanedo/swagger-spring.git
 $ cd httpie-springboot
 $ mvn package
 $ mvn spring-boot:run
